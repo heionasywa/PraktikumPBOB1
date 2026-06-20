@@ -6,7 +6,7 @@
 /**
  * Nama File: Mahasiswa.java
  * Deskripsi: Kelas Mahasiswa gokil
- * Pembuat: Maulana Ghazzam Adil Al Faiq - 24060124130083
+ * Pembuat: Nasywa Alya Kamila - 24060123140163
  * Tanggal: 18 Mei 2026
  */
 

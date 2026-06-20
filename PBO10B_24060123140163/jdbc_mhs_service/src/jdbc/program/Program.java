@@ -6,7 +6,7 @@
 /**
  * Nama File: Program.java
  * Deskripsi: Main
- * Pembuat: Maulana Ghazzam Adil Al Faiq - 24060124130083
+ * Pembuat: Nasywa Alya Kamila - 24060123140163
  * Tanggal: 18 Mei 2026
  */
 
@@ -33,7 +33,7 @@ public class Program {
         System.out.println("--------------------------");
         
         System.out.println("----- UPDATE ATTEMPT -----");
-        mhsAdd.setNama("Maulana Ghazzam Adil Al Faiq");
+        mhsAdd.setNama("Nasywa Alya Kamila");
         System.out.println("Faiq diubah menjadi nama lengkap!");
         service.update(mhsAdd);
         System.out.println("Update berhasil.");

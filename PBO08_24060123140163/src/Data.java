@@ -1,7 +1,7 @@
 /*
     File        : Data.java
     Deskripsi   : Polimorfisme Universal tipe Generik (Operator)
-    Nama/NIM    : Maulana Ghazzam Adil Al Faiq / 24060124130083
+    Nama/NIM    : Nasywa Alya Kamila / 24060123140163
     Tanggal     : 29 April 2026
 */
 

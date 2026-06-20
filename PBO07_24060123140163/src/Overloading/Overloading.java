@@ -1,7 +1,7 @@
 /*
     File        : Overloading.java
     Deskripsi   : Polimorfisme Ad Hoc tipe Overloading
-    Nama/NIM    : Maulana Ghazzam Adil Al Faiq / 24060124130083
+    Nama/NIM    : Nasywa Alya Kamila / 24060123140163
     Tanggal     : 23 April 2026
 */
 
@@ -19,7 +19,7 @@ public class Overloading {
         MHS1.printMhs();
     
         // Test Konstruktor dengan parameter sesuai input
-        MHS2 = new Mahasiswa("24060124130083", "Faiq", "Informatika");
+        MHS2 = new Mahasiswa("24060123140163", "Faiq", "Informatika");
         MHS2.printMhs();
 
         // Test Konstruktor dengan parameter Mahasiswa lain (kloning)

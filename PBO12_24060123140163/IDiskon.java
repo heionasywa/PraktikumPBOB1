@@ -1,4 +1,4 @@
-package PBO12_24060124130083;
+package PBO12_24060123140163;
 
 public interface IDiskon {
     public double hitungDiskon(int harga);

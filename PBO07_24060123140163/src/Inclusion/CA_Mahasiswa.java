@@ -1,7 +1,7 @@
 /*
     File        : CA_Mahasiswa.java
     Deskripsi   : Polimorfisme Ad Hoc tipe Inclusion (subclass)
-    Nama/NIM    : Maulana Ghazzam Adil Al Faiq / 24060124130083
+    Nama/NIM    : Nasywa Alya Kamila / 24060123140163
     Tanggal     : 25 April 2026
 */
 

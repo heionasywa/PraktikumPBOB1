@@ -1,6 +1,6 @@
 /* Nama File     : Lingkaran.java
  * Deskripsi     : class Lingkaran extend gokil
- * Pembuat       : Maulana Ghazzam Adil Al Faiq - 24060124130083
+ * Pembuat       : Nasywa Alya Kamila - 24060123140163
  * Tanggal       : 10 Maret 2026
  */
 

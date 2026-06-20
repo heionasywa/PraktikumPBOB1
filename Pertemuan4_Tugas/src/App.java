@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         DosenTetap test = new DosenTetap(
-            "200624060124130083",
+            "200624060123140163",
             "0624130083",
             "Maulana Ghazzam",
             new Tanggal(26, 12, 1998),
@@ -13,7 +13,7 @@ public class App {
         test.printInfo();
 
         DosenTamu test1 = new DosenTamu(
-            "200624060124130083",
+            "200624060123140163",
             "0624130083",
             "Maulana Ghazzam",
             new Tanggal(26, 12, 1998),
@@ -26,7 +26,7 @@ public class App {
         test1.printInfo();
 
         Tendik test2 = new Tendik(
-            "200624060124130083",
+            "200624060123140163",
             "Maulana Ghazzam",
             new Tanggal(26, 12, 1998),
             new Tanggal(6, 12, 2020),

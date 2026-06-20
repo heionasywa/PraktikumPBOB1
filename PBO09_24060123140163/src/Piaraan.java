@@ -1,7 +1,7 @@
 /*
     File        : Piaraan.java
     Deskripsi   : Koleksi Generik Bentukan
-    Nama/NIM    : Maulana Ghazzam Adil Al Faiq / 24060124130083
+    Nama/NIM    : Nasywa Alya Kamila / 24060123140163
     Tanggal     : 5 Mei 2026
 */
 

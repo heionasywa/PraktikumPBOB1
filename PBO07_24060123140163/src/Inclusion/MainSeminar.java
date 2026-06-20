@@ -1,7 +1,7 @@
 /*
     File        : MainSeminar.java
     Deskripsi   : Driver penerapan polimorfisme inclusion dengan array statis
-    Nama/NIM    : Maulana Ghazzam Adil Al Faiq / 24060124130083
+    Nama/NIM    : Nasywa Alya Kamila / 24060123140163
     Tanggal     : 25 April 2026
 */
 
@@ -19,7 +19,7 @@ public class MainSeminar {
         D1 = new CA_Dosen("Kahfi", "2006122620300817001");
         D2 = new CA_Dosen("Renee", "2004082320300817002");
 
-        M1 = new CA_Mahasiswa("Faiq", "24060124130083", D1);
+        M1 = new CA_Mahasiswa("Faiq", "24060123140163", D1);
         M2 = new CA_Mahasiswa("Jordan", "24060124120044", D2);
         M3 = new CA_Mahasiswa("Haydar", "24060124120023", D1);
         M4 = new CA_Mahasiswa("Mahes", "24060124140202", D2);
