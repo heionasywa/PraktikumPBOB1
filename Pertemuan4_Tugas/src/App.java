@@ -3,7 +3,7 @@ public class App {
         DosenTetap test = new DosenTetap(
             "200624060123140163",
             "0624130083",
-            "Maulana Ghazzam",
+            "Nasywa Alya Kamila",
             new Tanggal(26, 12, 1998),
             new Tanggal(6, 12, 2020),
             "Fakultas Teknik",
@@ -15,7 +15,7 @@ public class App {
         DosenTamu test1 = new DosenTamu(
             "200624060123140163",
             "0624130083",
-            "Maulana Ghazzam",
+            "Nasywa Alya Kamila",
             new Tanggal(26, 12, 1998),
             Tanggal.getToday(),
             "Fakultas Teknik",
@@ -27,7 +27,7 @@ public class App {
 
         Tendik test2 = new Tendik(
             "200624060123140163",
-            "Maulana Ghazzam",
+            "Nasywa Alya Kamila",
             new Tanggal(26, 12, 1998),
             new Tanggal(6, 12, 2020),
             "Akademik",

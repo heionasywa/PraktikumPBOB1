@@ -10,3 +10,4 @@ java_project_template/
 /PBO11_24060123140163/jdbc_mhs_service_gui/build/
 /PBO11_24060123140163/jdbc_mhs_service_gui/nbproject/private/
 /PBO11_24060123140163/gui/build/
+*.class
